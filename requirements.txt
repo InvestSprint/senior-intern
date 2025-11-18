@@ -1,4 +1,3 @@
-streamlit
-google-generativeai
-qdrant-client
-python-dotenv
+streamlit>=1.30
+
+
